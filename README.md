@@ -34,7 +34,7 @@ CLOUDFRONT<------None
 - Launch Ec2-Instance for DB Initializing
 - Login to the instance and Inititialize RDS DB
 - Change healthcheck on beanstalk to /login
-- Add 443 https Lister to ELB
+- Add 443 https Listner to ELB
 - Build Artifact with Backend Information
 - Deploy Artifact to Beanstalk
 - Create CDN with ssl cert
